@@ -23,10 +23,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    
-    interests:
-      - item: Full stack web development
-        link:
 
     languages:
       - idiom: Finnish
@@ -41,7 +37,6 @@ sidebar:
 education:
     - degree: BSc in Computer science
       university: University of Helsinki
-      time: 2018 - Present
       details: |
         Currently a 2nd year computer science student especially interested in full stack web development.
 
