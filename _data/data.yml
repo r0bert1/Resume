@@ -68,8 +68,7 @@ projects:
         link: "#"
         tagline: "Desktop app that allows the user to both scan QR codes via webcam, and generate new QR codes. Built with javaFX."
 
-
-# skills:
+skills:
     title: Skills
     
     intro: >
