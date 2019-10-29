@@ -35,10 +35,13 @@ sidebar:
         level: Fluent
 
 education:
-    - degree: BSc in Computer science
+    - degree: Major: Computer science (in-major GPA: 4.44)
       university: University of Helsinki
       details: |
         Currently a 2nd year computer science student especially interested in full stack web development.
+        
+        Relevant completed courses:
+          - Full Stack -websovelluskehitys
 
 projects:
     title: Projects
