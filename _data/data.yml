@@ -43,14 +43,7 @@ education:
       university: University of Helsinki
       time: 2018 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Currently a 2nd year computer science student especially interested in full stack web development.
 
 projects:
     title: Projects
@@ -69,7 +62,7 @@ skills:
 
     toolset:
       - name: JavaScript & React
-        level: 80%
+        level: 85%
 
       - name: Java
         level: 80%
