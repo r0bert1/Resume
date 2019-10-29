@@ -60,36 +60,26 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: WebCalendar (Under development)
-        link: "#hook"
-        tagline: "Calendar web app built with React and Node.js"
+      - title: WebCalendar
+        link: "https://github.com/r0bert1/calendarWebApp"
+        tagline: "(Currently under development) Calendar web app built with React, Node.js and MongoDB."
 
       - title: QRCodeApp
-        link: "#"
+        link: "https://github.com/r0bert1/QRCodeApp"
         tagline: "Desktop app that allows the user to both scan QR codes via webcam, and generate new QR codes. Built with javaFX."
 
 skills:
     title: Skills
-    
-    intro: >
-      (Proficient): JavaScript, React, Node.js, Java, Git
-      (Familiar): HTML/CSS, SQL
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JavaScript & React
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 60%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: SQL
         level: 60%
